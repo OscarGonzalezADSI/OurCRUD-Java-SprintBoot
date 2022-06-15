@@ -18,7 +18,7 @@ En esta versión se encuentra automatizada la generación de tablas html para pr
 
 Óscar Iván González Peña
 
-Tecnólogo ADSI SENA Análisis y Desarrollo de Sistemas de Información
+Tecnólogo ADSI SENA - Análisis y Desarrollo de Sistemas de Información
 
 Celular: (+57)3228858439
 
