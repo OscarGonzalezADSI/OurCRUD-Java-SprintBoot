@@ -10,6 +10,9 @@ Se aceptan sugerencias aportes, comentarios y correciones.
 # Avances
 En esta versión se encuentra automatizada la generación de tablas html para proyectos web SprintBoot.
 
+ver estado actual:
+https://github.com/OscarGonzalezADSI/OurCRUD-Java-SprintBoot/blob/main/README.md
+
 # Contacto:
 
 Óscar Iván González Peña
