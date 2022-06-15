@@ -5,8 +5,6 @@ A diferencia de otras automatizaciones realizadas en el pasado con PHP y Python3
 se asumió el reto de hacerlo enteramente en Java. Este proyecto está todavía en etapa de desarrollo, estable y funcionando satisfactoriamente. Esta diseñado para usarse conjuntamente con el repositorio de SprintBoot_crud.
 Dar clic en el siguiente enlace para verlo. https://github.com/OscarGonzalezADSI/SprintBoot_crud
 
-Se aceptan sugerencias aportes, comentarios y correciones.
-
 # Avances
 En esta versión se encuentra automatizada la generación de tablas html para proyectos web SprintBoot.
 
