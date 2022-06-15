@@ -20,6 +20,6 @@ En esta versión se encuentra automatizada la generación de tablas html para pr
 
 Tecnólogo ADSI SENA - Análisis y Desarrollo de Sistemas de Información
 
-Celular: (+57)3228858439
+Celular: (+57)322-8858439
 
 Cúcuta - Colombia
