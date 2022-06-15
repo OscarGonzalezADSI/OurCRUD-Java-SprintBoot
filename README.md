@@ -14,7 +14,7 @@ Se aceptan sugerencias aportes, comentarios y correciones.
 # Avances
 En esta versión se encuentra automatizada la generación de tablas html para proyectos web SprintBoot.
 
-# Contacto de desarrollador:
+Contacto de desarrollador:
 Óscar Iván González Peña
 Tecnólogo ADSI SENA Análisis y Desarrollo de Sistemas de Información
 Celular: (+57)3228858439
